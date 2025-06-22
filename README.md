@@ -1,2 +1,2 @@
 # Briggs
-Message bus implementation
+
